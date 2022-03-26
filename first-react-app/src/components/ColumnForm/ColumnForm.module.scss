@@ -1,0 +1,19 @@
+
+@import '../../styles/settings.scss';
+
+.columnForm {
+    text-align: center;
+    padding: 10px;
+}
+
+.inputName{
+    margin: 10px;
+}
+
+@media (min-width: 768px){
+
+    .columnForm {
+        display: block;
+    }
+
+}
